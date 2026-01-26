@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=terminal&color=000000&height=150&section=header&text=ROOT@AAGYA:~$&fontSize=40&fontAlignY=40" width="100%" />
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=terminal&color=000000&height=150&section=header&text=AAGYA@GITHUB:~$%20ls%20-portfolio&fontSize=35&fontAlignY=45" width="100%" />
+</div>
   <h1>[ AAGYA BHANDARI ]</h1>
   <p><code>> MERN Stack Engineer | DevOps Enthusiast | System Architect</code></p>
   
@@ -36,7 +37,7 @@
 ### 📊 System_Analytics.log
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aa9yaBhandar1&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aa9yaBhandar1&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aa9yaBhandar1&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=777777&hide_title=true" />
 </p>
 
 ---
