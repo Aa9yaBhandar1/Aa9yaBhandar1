@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hello%20World&fontSize=80&animation=fadeIn" width="100%" />
   
   <h1>Hey, It's Aagya 👋</h1>
   <p>🚀 MERN Stack | DevOps Enthusiast </p>
@@ -9,7 +8,8 @@
   <img src="https://img.shields.io/badge/-Problem_Solver-green?style=for-the-badge" />
 </div>
 
-### tech
+### 🛠 Tech Stack & Tools
+<br>
 <table>
   <tr>
     <td align="center" width="200"><strong>Frontend</strong></td>
@@ -18,13 +18,13 @@
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" />
+      <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,ts,shadcn" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb," />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,aws,git,figma" />
+      <img src="https://skillicons.dev/icons?i= docker,aws,git,linux,postman " />
     </td>
   </tr>
 </table>
