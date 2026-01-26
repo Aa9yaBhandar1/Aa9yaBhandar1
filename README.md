@@ -24,8 +24,7 @@
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb," />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i= docker,aws,git,linux,postman " />
-    </td>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux,postman&titles=true" />    </td>
   </tr>
 </table>
 
