@@ -33,12 +33,11 @@
 
 ---
 
-### 📊 System_Analytics.log
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aa9yaBhandar1&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
   
   <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aa9yaBhandar1&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&hide_title=false" />
-</p>
+</p> -->
 
 ---
 
